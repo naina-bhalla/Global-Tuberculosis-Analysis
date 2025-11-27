@@ -90,6 +90,7 @@ For full details, inspect `scraping.R`, `global.R`, `global_plots.R`, and `home_
 ## Limitations & ethics
 
 - Only aggregated, public datasets are used, no personal or sensitive data.
+- WHO data is licensed under a Creative Commons Attribution 4.0 International (CC BY 4.0)
 - All data sources are open access, published by the WHO, World Bank, and UN agencies, and thus carry no privacy concerns. 
 
 
